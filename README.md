@@ -1,6 +1,6 @@
-Mod Description
-This is a translation mod based on the XUnity.AutoTranslator plugin. Credits:
-* Base code: bbepis/XUnity.AutoTranslator. Translation and adjustments: Done by me (Dexter467).
+Descripción del mod
+Este es un mod de traducción basado en el plugin XUnity.AutoTranslator. Créditos:
+* Código base: bbepis/XUnity.AutoTranslator. Traducción y ajustes: Realizados por mí (Dexter467).
 
 Contenido:
 He modificado los archivos de mapeo de texto para traducir el juego al español.
